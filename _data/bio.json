@@ -27,7 +27,7 @@
       }
     ]
   },
-  "interests": [
+  "XXXinterests": [
     {
       "name": "internet of things",
       "keywords": [
@@ -46,7 +46,7 @@
       ]
     }
   ],
-  "skills": [
+  "XXXskills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
@@ -71,7 +71,7 @@
       ]
     }
   ],
-  "education": [
+  "XXXeducation": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
@@ -83,7 +83,7 @@
       ]
     }
   ],
-  "work": [
+  "XXXwork": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -109,7 +109,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "XXXvolunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -136,7 +136,7 @@
       ]
     }
   ],
-  "awards": [
+  "XXXawards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -150,7 +150,7 @@
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
-  "references": [
+  "XXXreferences": [
     {
       "name": "Available upon request",
       "reference": ""
