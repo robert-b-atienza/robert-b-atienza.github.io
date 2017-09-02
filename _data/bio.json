@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://robertatienza.github.io/images/happy.jpg",
     "email": "atienzar@hawaii.edu",
-    "phone": "808-484-1158",
+    "phone": "",
     "website": "https://robertatienza.github.io",
     "summary": "Hey, I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "robertatienza",
+        "url": "http://github.com/robertatienza"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "robertatienza",
+        "url": "http://linkedin.com/in/robert-atienza"
       }
     ]
   },
