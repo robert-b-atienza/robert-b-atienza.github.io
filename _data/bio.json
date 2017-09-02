@@ -14,7 +14,7 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "XXXprofiles": [
+    "profiles": [
       {
         "network": "github",
         "username": "robertatienza",
