@@ -44,28 +44,25 @@
       ]
     }
   ],
-  "XXXskills": [
+  "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "Java"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows",
+        "Eclipse",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Gimp",
+        "Audacity"
       ]
     }
   ],
