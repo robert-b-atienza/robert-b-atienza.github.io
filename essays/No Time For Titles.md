@@ -20,6 +20,5 @@ WODS or Workout of the Days have their pros and cons for me, for example, Follow
 
 In closing I'll say this about this style of learning it is indeed stressful, as I am commonly catching myself relaxing after school then realizing, "Oh, shoot, I have something due tonight!" Also I wouldn't say it's enjoyable either, however, I do look forward to the sense of accomplishment once it's all over and done. It will take a bit of getting used to the pacing but I do think it will be an effective technique because I feel applying knowledge effectively is the best for learning and this teaching technique crams more of those opportunities as possible in the short span of time we have in a semester. 
 
-Sincerely,
-Robert
+Hello World!
 
