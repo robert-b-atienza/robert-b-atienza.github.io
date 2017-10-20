@@ -7,8 +7,9 @@ labels:
   - Software Engineering
   - Meteor
 ---
-Contributors
-Mitchell Sakuda
+Contributors:
+
+Mitchell Sakuda<br/>
 Robert Atienza 
 
 1. Overview:
@@ -31,7 +32,7 @@ create an app that displays your own schedule for a semester.
 
 Have access to be able to see our class schedules.
 
-3. Use Cases
+ 3. Use Cases
 
 Can be viewed on your phone while signing up for classes through star
 
